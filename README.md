@@ -22,7 +22,9 @@
 
 | 格式 | 链接 |
 | :--- | :--- |
-| 📕 PDF | [觉知即结构——波动修行统一体系V1.0.pdf](https://github.com/SixSigmaAlgo/awareness-as-structure/blob/main/%E8%A7%89%E7%9F%A5%E5%8D%B3%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E6%B3%A2%E5%8A%A8%E4%BF%AE%E8%A1%8C%E7%BB%9F%E4%B8%80%E4%BD%93%E7%B3%BBV1.0.pdf) |
+| 📘 Markdown | [觉知即结构——波动修行统一体系V1.2.md](https://github.com/SixSigmaAlgo/awareness-as-structure/blob/main/%E8%A7%89%E7%9F%A5%E5%8D%B3%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E6%B3%A2%E5%8A%A8%E4%BF%AE%E8%A1%8C%E7%BB%9F%E4%B8%80%E4%BD%93%E7%B3%BBV1.2.md) |
+| 📕 PDF | [觉知即结构——波动修行统一体系V1.2.pdf](https://github.com/SixSigmaAlgo/awareness-as-structure/blob/main/%E8%A7%89%E7%9F%A5%E5%8D%B3%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E6%B3%A2%E5%8A%A8%E4%BF%AE%E8%A1%8C%E7%BB%9F%E4%B8%80%E4%BD%93%E7%B3%BBV1.2.pdf) |
+| 📱 EPUB | [觉知即结构——波动修行统一体系V1.2.epub](https://github.com/SixSigmaAlgo/awareness-as-structure/blob/main/%E8%A7%89%E7%9F%A5%E5%8D%B3%E7%BB%93%E6%9E%84%E2%80%94%E2%80%94%E6%B3%A2%E5%8A%A8%E4%BF%AE%E8%A1%8C%E7%BB%9F%E4%B8%80%E4%BD%93%E7%B3%BBV1.2.epub) |
 
 > 💡 提示：GitHub 在线预览 PDF 可能不完整，建议点击右上角 **“Download”** 或 **“Raw”** 按钮下载到本地阅读。
 
